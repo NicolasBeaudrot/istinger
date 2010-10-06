@@ -1,0 +1,22 @@
+#summary Mock-up des interfaces de l'application
+#labels Featured
+
+= Introduction =
+
+Premiers mock-up des interfaces de l'application
+
+= Details =
+
+L'application sera réparti en *3 vues*. 
+
+La première interface correspond à l'interface de conduite du robot.
+
+http://ups.imagup.com/ano1/1286382181.png
+
+Au bas de l'écran, il y a une toolbar qui contient 2 icônes (une FAQ et les paramètres)
+
+L'icône du rouage représente les paramètres, lorsque l'on clic dessus, une nouvelle vue s'affiche :
+
+http://uploads.imagup.com/15/1286382207.png
+
+L'interface n'est pas terminée, il va falloir définir les options que l'on pourra paramétrer.
