@@ -1,0 +1,14 @@
+#summary Organisation du code source du projet
+
+Le projet est organisé autour de 3 interfaces : DrivingView, OptionsView, HelpView
+
+Ces vues ont chacune un rôle respectif.
+
+http://data.imagup.com/3/1287066306.png
+
+Toutes les classes du projet se situe dans le dossier _Classes_.
+Les classes relatives à l'interface sont situées dans le dossier _Classes/ViewController_.
+
+Les classes ViewController contiennent le code qui va être exécuté lorsque l'utilisateur va exécuter des actions depuis l'interface.
+
+D'autres classes seront réservées à l'envoie de données au robot via une connexion wifi.
