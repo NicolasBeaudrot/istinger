@@ -1,0 +1,2 @@
+/Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectApp.m:33: warning: property 'drivingView' requires method '-drivingView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectApp.m:33: warning: property 'drivingView' requires the method 'setDrivingView:' to be defined - use @synthesize, @dynamic or provide a method implementation
