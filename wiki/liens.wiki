@@ -9,6 +9,7 @@ Liste des liens utiles pour le projet.
 
 Tutoriel pour débuter :
  * http://www.alsacreations.com/article/lire/744-initiation-au-dveloppement-sur-iphone.html
+ * http://www.iphonesdkarticles.com/2008/07/tab-bar-controller-tutorial.html
 
 Documentation officielle :
  * http://developer.apple.com/devcenter/ios/index.action
