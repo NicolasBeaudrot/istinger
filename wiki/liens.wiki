@@ -1,0 +1,17 @@
+#summary Sites utiles pour le développement du projet
+
+= Introduction =
+
+Liste des liens utiles pour le projet.
+
+
+= Details =
+
+Tutoriel pour débuter :
+ * http://www.alsacreations.com/article/lire/744-initiation-au-dveloppement-sur-iphone.html
+
+Documentation officielle :
+ * http://developer.apple.com/devcenter/ios/index.action
+
+Envoi/Réception de trame
+ * http://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSStream_Class/Reference/Reference.html
