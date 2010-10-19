@@ -16,3 +16,6 @@ Documentation officielle :
 
 Envoi/Réception de trame
  * http://developer.apple.com/library/ios/#documentation/Cocoa/Reference/Foundation/Classes/NSStream_Class/Reference/Reference.html
+
+Server TCP
+* http://www.rshields.com/?q=node/91
