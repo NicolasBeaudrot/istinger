@@ -22,3 +22,6 @@ Server TCP
 
 Singleton
  * http://www.geckogeek.fr/creer-un-singleton-sur-iphone-en-cocoa-objective-c.html
+
+Accéléromètre
+ * http://blog.octo.com/tour-dhorizon-du-developpement-iphone/
