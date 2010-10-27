@@ -16,6 +16,8 @@
 		747C23BB12675096000C0DB4 /* DrivingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 747C23BA12675096000C0DB4 /* DrivingViewController.m */; };
 		747C23C0126750DF000C0DB4 /* OptionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 747C23BF126750DF000C0DB4 /* OptionsViewController.m */; };
 		747C23C512675163000C0DB4 /* HelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 747C23C412675163000C0DB4 /* HelpViewController.m */; };
+		74807B731278578800F718A2 /* ConnexionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 74807B701278578800F718A2 /* ConnexionManager.m */; };
+		74807B741278578800F718A2 /* Network.m in Sources */ = {isa = PBXBuildFile; fileRef = 74807B721278578800F718A2 /* Network.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,10 @@
 		747C23BF126750DF000C0DB4 /* OptionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = OptionsViewController.m; path = ViewController/OptionsViewController.m; sourceTree = "<group>"; };
 		747C23C312675163000C0DB4 /* HelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HelpViewController.h; path = ViewController/HelpViewController.h; sourceTree = "<group>"; };
 		747C23C412675163000C0DB4 /* HelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HelpViewController.m; path = ViewController/HelpViewController.m; sourceTree = "<group>"; };
+		74807B6F1278578800F718A2 /* ConnexionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ConnexionManager.h; path = Classes/Connexion/ConnexionManager.h; sourceTree = SOURCE_ROOT; };
+		74807B701278578800F718A2 /* ConnexionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ConnexionManager.m; path = Classes/Connexion/ConnexionManager.m; sourceTree = SOURCE_ROOT; };
+		74807B711278578800F718A2 /* Network.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Network.h; path = Classes/Connexion/Network.h; sourceTree = SOURCE_ROOT; };
+		74807B721278578800F718A2 /* Network.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Network.m; path = Classes/Connexion/Network.m; sourceTree = SOURCE_ROOT; };
 		8D1107310486CEB800E47090 /* iStingerProject-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iStingerProject-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,14 +60,10 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				747C23BA12675096000C0DB4 /* DrivingViewController.m */,
-				747C23B91267508B000C0DB4 /* DrivingViewController.h */,
+				74768F5912757DA600A898D8 /* Connexion */,
+				74768F25127578B100A898D8 /* ViewController */,
 				1D3623240D0F684500981E51 /* iStingerProjectApp.h */,
 				1D3623250D0F684500981E51 /* iStingerProjectApp.m */,
-				747C23BE126750DF000C0DB4 /* OptionsViewController.h */,
-				747C23BF126750DF000C0DB4 /* OptionsViewController.m */,
-				747C23C312675163000C0DB4 /* HelpViewController.h */,
-				747C23C412675163000C0DB4 /* HelpViewController.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -112,6 +114,31 @@
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		74768F25127578B100A898D8 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				747C23BA12675096000C0DB4 /* DrivingViewController.m */,
+				747C23B91267508B000C0DB4 /* DrivingViewController.h */,
+				747C23C412675163000C0DB4 /* HelpViewController.m */,
+				747C23C312675163000C0DB4 /* HelpViewController.h */,
+				747C23BE126750DF000C0DB4 /* OptionsViewController.h */,
+				747C23BF126750DF000C0DB4 /* OptionsViewController.m */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		74768F5912757DA600A898D8 /* Connexion */ = {
+			isa = PBXGroup;
+			children = (
+				74807B6F1278578800F718A2 /* ConnexionManager.h */,
+				74807B701278578800F718A2 /* ConnexionManager.m */,
+				74807B711278578800F718A2 /* Network.h */,
+				74807B721278578800F718A2 /* Network.m */,
+			);
+			name = Connexion;
+			path = Communication;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -172,6 +199,8 @@
 				747C23BB12675096000C0DB4 /* DrivingViewController.m in Sources */,
 				747C23C0126750DF000C0DB4 /* OptionsViewController.m in Sources */,
 				747C23C512675163000C0DB4 /* HelpViewController.m in Sources */,
+				74807B731278578800F718A2 /* ConnexionManager.m in Sources */,
+				74807B741278578800F718A2 /* Network.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
