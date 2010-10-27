@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Connexion/ConnexionManager.h"
 
 @interface iStingerProjectAppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;

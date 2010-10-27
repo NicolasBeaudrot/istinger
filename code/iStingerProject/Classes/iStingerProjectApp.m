@@ -16,7 +16,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
 
     [window addSubview:[tabBarController view]];
-	
+	[[ConnexionManager sharedConnexion] connect];
     [window makeKeyAndVisible];
 	
 	return YES;
@@ -24,6 +24,7 @@
 
 
 - (void)dealloc {
+	[[ConnexionManager sharedConnexion] disconnect];
     [tabBarController release];
 	[window release];
     [super dealloc];
