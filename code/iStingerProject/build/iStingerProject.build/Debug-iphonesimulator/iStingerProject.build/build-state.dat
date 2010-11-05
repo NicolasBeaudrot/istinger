@@ -1,0 +1,656 @@
+TiStingerProject
+v7
+r0
+t309893154.688145
+cCheck dependencies
+cProcessInfoPlistFile /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/Info.plist iStingerProject-Info.plist
+cCompileXIB /Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib
+cProcessPCH /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch.gch iStingerProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o /Users/Meddle/istinger/code/iStingerProject/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/CommandRobotController.o /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject normal i386
+cGenerateDSYMFile /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app.dSYM /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject
+cTouch /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004CB76DE20000000000000110
+t1287089634
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.h
+c000000004CC8609F000000000000016A
+t1288200351
+s362
+i<UIKit/UIKit.h>
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m
+c000000004CC85E80000000000000019E
+t1288199808
+s414
+i"CommandRobotController.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.h
+c000000004CC47EF20000000000000182
+t1287945970
+s386
+i<UIKit/UIKit.h>
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m
+c000000004CC85FED00000000000002BE
+t1288200173
+s702
+i"DrivingViewController.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.h
+c000000004CC47EF200000000000000E8
+t1287945970
+s232
+i<UIKit/UIKit.h>
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m
+c000000004CC47EF2000000000000018E
+t1287945970
+s398
+i"HelpViewController.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.h
+c000000004CC47EF200000000000000EE
+t1287945970
+s238
+i<UIKit/UIKit.h>
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m
+c000000004CC47EF20000000000000197
+t1287945970
+s407
+i"OptionsViewController.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.h
+c000000004CC47EF200000000000001CC
+t1287945970
+s460
+i<UIKit/UIKit.h>
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m
+c000000004CC47EF2000000000000024B
+t1287945970
+s587
+i"iStingerProjectApp.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app
+t1288200354
+s272
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app.dSYM
+t1288200354
+s136
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/Info.plist
+t1288169213
+s629
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/PkgInfo
+t1288169213
+s8
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject
+t1288200354
+s19520
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerWindow.nib
+t1288169216
+s6709
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/CommandRobotController.o
+t1288200353
+s6564
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o
+t1288200177
+s37684
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o
+t1288169226
+s34628
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o
+t1288169226
+s34692
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProject.LinkFileList
+c000000004CC7E6FD00000000000003AA
+t1288169213
+s938
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o
+t1288169225
+s48272
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o
+t1288169225
+s6312
+
+N/Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch
+c000000004CC47EF200000000000000C7
+t1287945970
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib
+c000000004CC47EF2000000000000A77D
+t1287945970
+s42877
+
+N/Users/Meddle/istinger/code/iStingerProject/main.m
+c000000004CC47EF2000000000000016B
+t1287945970
+s363
+i<UIKit/UIKit.h>
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/DrivingViewController.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/DrivingViewController.m
+c000000004CB717B4000000000000029A
+t1287067572
+s666
+i"DrivingViewController.h"
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/DrivingViewController.h
+c000000004CB717BD0000000000000182
+t1287067581
+s386
+i<UIKit/UIKit.h>
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/DrivingViewController.m
+c000000004CB719990000000000000296
+t1287068057
+s662
+i"DrivingViewController.h"
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/HelpViewController.h
+c000000004CB719EC00000000000000E8
+t1287068140
+s232
+i<UIKit/UIKit.h>
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/HelpViewController.m
+c000000004CB71A84000000000000018E
+t1287068292
+s398
+i"HelpViewController.h"
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/OptionsViewController.h
+c000000004CB719AE00000000000000EE
+t1287068078
+s238
+i<UIKit/UIKit.h>
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/OptionsViewController.m
+c000000004CB71A890000000000000197
+t1287068297
+s407
+i"OptionsViewController.h"
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectApp.h
+c000000004CB71A9900000000000001CC
+t1287068313
+s460
+i<UIKit/UIKit.h>
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectApp.m
+c000000004CB7170E000000000000024B
+t1287067406
+s587
+i"iStingerProjectApp.h"
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectAppDelegate.h
+c000000004CB70FBA00000000000001CD
+t1287065530
+s461
+i<UIKit/UIKit.h>
+
+N/Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectAppDelegate.m
+c000000004CB70FAD0000000000000241
+t1287065517
+s577
+i"iStingerProjectAppDelegate.h"
+
+N/Users/utbm/Documents/TX52/iStingerProject/MainWindow.xib
+c000000004CB719A8000000000000A57A
+t1287068072
+s42362
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app
+t1287068083
+s204
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app.dSYM
+t1287068083
+s102
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/Info.plist
+t1287065590
+s631
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/MainWindow.nib
+t1287068083
+s5655
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/PkgInfo
+t1287065590
+s8
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject
+t1287068083
+s21128
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerWindow.nib
+t2
+s0
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o
+t1287068083
+s31920
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o
+t2
+s0
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o
+t1287068083
+s30108
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProject.LinkFileList
+c000000004CB719B20000000000000268
+t1287068082
+s616
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o
+t1287067611
+s40616
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectAppDelegate.o
+t2
+s0
+
+N/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o
+t1287065591
+s5956
+
+N/Users/utbm/Documents/TX52/iStingerProject/iStingerProject_Prefix.pch
+c000000004CB701C800000000000000C7
+t1287061960
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/utbm/Documents/TX52/iStingerProject/iStingerWindow.xib
+c000000004CB71A18000000000000A77D
+t1287068184
+s42877
+
+N/Users/utbm/Documents/TX52/iStingerProject/main.m
+c000000004CB71AAD000000000000016B
+t1287068333
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch.gch
+t1288169225
+s15211536
+
+N/var/folders/mu/mu19CZg8G6OfpaV0bxgNfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-ahuqlnbafsoxjkbuydvhdysxhfvg/iStingerProject_Prefix.pch.gch
+t1287065591
+s13026768
+
+NiStingerProject-Info.plist
+c000000004CC47EF2000000000000038D
+t1287945970
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309893153#309893153#0(0"0(0#1#0"8610007456#0"0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/CommandRobotController.o /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309893153.529540
+e309893153.616866
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/CommandRobotController.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m: In function '-[CommandRobotController goStraight]':
+o/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:19: warning: control reaches end of non-void function
+o/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m: At top level:
+o/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:29: warning: incomplete implementation of class 'CommandRobotController'
+o/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:29: warning: method definition for '-turnBack' not found
+o/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:29: warning: method definition for '-moveBack' not found
+o/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:29: warning: method definition for '-goLeft' not found
+o/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:29: warning: method definition for '-goRight' not found
+lSLF07#2@84"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m309893153#309893153#0(1036"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m: In function '-[CommandRobotController goStraight]':/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:19: warning: control reaches end of non-void function/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m: At top level:/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:29: warning: incomplete implementation of class 'CommandRobotController'/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:29: warning: method definition for '-turnBack' not found/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:29: warning: method definition for '-moveBack' not found/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:29: warning: method definition for '-goLeft' not found/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m:29: warning: method definition for '-goRight' not found7(22@40"Control reaches end of non-void function309893153#130#131#0(6@76"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m309892608#19#0#19#0#40"control reaches end of non-void function0(23@13"At top level:309893153#261#92#0(6@76"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m309892608#0#0#0#0#0"0(22@59"Incomplete implementation of class 'CommandRobotController'309893153#353#150#0(6@76"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m309892608#29#0#29#0#38"incomplete implementation of class '*'0(22@43"Method definition for '-turnBack' not found309893153#503#134#0(6@76"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m309892608#29#0#29#0#35"method definition for '*' not found0(22@43"Method definition for '-moveBack' not found309893153#637#134#0(6@76"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m309892608#29#0#29#0#35"method definition for '*' not found0(22@41"Method definition for '-goLeft' not found309893153#771#132#0(6@76"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m309892608#29#0#29#0#35"method definition for '*' not found0(22@42"Method definition for '-goRight' not found309893153#903#133#0(6@76"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m309892608#29#0#29#0#35"method definition for '*' not found0(0#0#76"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m8612761312#2173"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/CommandRobotController.o0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309892976.949425
+e309892977.149803
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m: In function '-[DrivingViewController btnClicUp:]':
+o/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m:30: warning: 'NSString' may not respond to '+goStraight'
+o/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m:30: warning: (Messages without a matching method signature
+o/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m:30: warning: will be assumed to return 'id' and accept
+o/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m:30: warning: '...' as arguments.)
+lSLF07#2@98"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m309892976#309892977#0(712"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m: In function '-[DrivingViewController btnClicUp:]':/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m:30: warning: 'NSString' may not respond to '+goStraight'/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m:30: warning: (Messages without a matching method signature/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m:30: warning: will be assumed to return 'id' and accept/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m:30: warning: '...' as arguments.)2(22@43"'NSString' may not respond to '+goStraight'309892977#143#148#0(6@90"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m309892973#30#0#30#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)309892977#291#150#0(6@90"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m309892973#30#0#30#0#0"0(0#0#90"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m8611895904#2186"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o /Users/utbm/Documents/TX52/iStingerProject/Classes/DrivingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308760411.720510
+e308760411.826887
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o
+x/Users/utbm/Documents/TX52/iStingerProject/Classes/DrivingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/utbm/Documents/TX52/iStingerProject/Classes/DrivingViewController.m308760411#308760411#0(0"0(0#0#74"/Users/utbm/Documents/TX52/iStingerProject/Classes/DrivingViewController.m4300911832#2105"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator -I/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/include -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/mu/mu19CZg8G6OfpaV0bxgNfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-ahuqlnbafsoxjkbuydvhdysxhfvg/iStingerProject_Prefix.pch -c /Users/utbm/Documents/TX52/iStingerProject/Classes/DrivingViewController.m -o /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o /Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/DrivingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308760883.246849
+e308760883.371687
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o
+x/Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/DrivingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/DrivingViewController.m308760883#308760883#0(0"0(0#0#89"/Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/DrivingViewController.m4300911832#2120"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator -I/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/include -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/mu/mu19CZg8G6OfpaV0bxgNfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-ahuqlnbafsoxjkbuydvhdysxhfvg/iStingerProject_Prefix.pch -c /Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/DrivingViewController.m -o /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309862026.150637
+e309862026.230069
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m309862026#309862026#0(0"0(0#0#87"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m8624737408#2180"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o /Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309862026.024167
+e309862026.150513
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m309862026#309862026#0(0"0(0#0#90"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m8624235424#2186"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o /Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/OptionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308760883.300971
+e308760883.387608
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o
+x/Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/OptionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/OptionsViewController.m308760883#308760883#0(0"0(0#0#89"/Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/OptionsViewController.m4300911832#2120"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator -I/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/include -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/mu/mu19CZg8G6OfpaV0bxgNfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-ahuqlnbafsoxjkbuydvhdysxhfvg/iStingerProject_Prefix.pch -c /Users/utbm/Documents/TX52/iStingerProject/Classes/ViewController/OptionsViewController.m -o /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309862025.776116
+e309862025.902442
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m309862025#309862025#0(0"0(0#0#72"/Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m8625372512#2165"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o /Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectApp.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308760411.716443
+e308760411.821505
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o
+x/Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectApp.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectApp.m308760411#308760411#0(0"0(0#0#71"/Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectApp.m4300911832#2099"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator -I/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/include -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/mu/mu19CZg8G6OfpaV0bxgNfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-ahuqlnbafsoxjkbuydvhdysxhfvg/iStingerProject_Prefix.pch -c /Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectApp.m -o /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectAppDelegate.o /Users/utbm/Documents/TX52/iStingerProject/Classes/iStingerProjectAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o /Users/Meddle/istinger/code/iStingerProject/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309862025.395916
+e309862025.775989
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o
+x/Users/Meddle/istinger/code/iStingerProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Meddle/istinger/code/iStingerProject/main.m309862025#309862025#0(0"0(0#0#50"/Users/Meddle/istinger/code/iStingerProject/main.m8624732448#2129"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/main.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o /Users/utbm/Documents/TX52/iStingerProject/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308758391.693098
+e308758391.863184
+r1
+xCompileC
+xbuild/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o
+x/Users/utbm/Documents/TX52/iStingerProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/utbm/Documents/TX52/iStingerProject/main.m308758391#308758391#0(0"0(0#0#49"/Users/utbm/Documents/TX52/iStingerProject/main.m4300911832#2063"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator -I/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/include -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -include /var/folders/mu/mu19CZg8G6OfpaV0bxgNfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-ahuqlnbafsoxjkbuydvhdysxhfvg/iStingerProject_Prefix.pch -c /Users/utbm/Documents/TX52/iStingerProject/main.m -o /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib
+s309862013.864963
+e309862017.396232
+r1
+xCompileXIB
+x/Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib
+lSLF07#2@29"CompileXIB iStingerWindow.xib309862013#309862017#0(0"0(0#0#62"/Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib8625558944#601"    cd /Users/Meddle/istinger/code/iStingerProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerWindow.nib /Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/utbm/Documents/TX52/iStingerProject/MainWindow.xib
+s308760882.840211
+e308760883.246434
+r1
+xCompileXIB
+x/Users/utbm/Documents/TX52/iStingerProject/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308760882#308760883#0(0"0(0#0#57"/Users/utbm/Documents/TX52/iStingerProject/MainWindow.xib4300911832#502"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/MainWindow.nib /Users/utbm/Documents/TX52/iStingerProject/MainWindow.xib0#
+
+CCompileXIB /Users/utbm/Documents/TX52/iStingerProject/iStingerWindow.xib
+r0
+
+CGenerateDSYMFile /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app.dSYM /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject
+s309893154.526845
+e309893154.660962
+r1
+xGenerateDSYMFile
+x/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app.dSYM
+x/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/iStingerProject.app.dSYM build/Debug-iphonesimulator/iStingerProject.app/iStingerProject309893154#309893154#0(0"0(0#0#107"/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject8612700832#422"    cd /Users/Meddle/istinger/code/iStingerProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject -o /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app.dSYM0#
+
+CGenerateDSYMFile /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app.dSYM /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject
+s308760883.411283
+e308760883.427658
+r1
+xGenerateDSYMFile
+x/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app.dSYM
+x/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/iStingerProject.app.dSYM build/Debug-iphonesimulator/iStingerProject.app/iStingerProject308760883#308760883#0(0"0(0#0#106"/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject4300911832#419"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject -o /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app.dSYM0#
+
+CLd /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject normal i386
+s309893153.616989
+e309893154.526674
+r1
+xLd
+x/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject
+xnormal
+xi386
+lSLF07#2@112"Link /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject309893153#309893154#0(0"0(0#0#0"8610741440#965"    cd /Users/Meddle/istinger/code/iStingerProject    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator -F/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator -filelist /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProject.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject0#
+
+CLd /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject normal i386
+s308760883.387706
+e308760883.411181
+r1
+xLd
+x/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject
+xnormal
+xi386
+lSLF07#2@111"Link /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject308760883#308760883#0(0"0(0#0#0"4300911832#924"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator -F/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator -filelist /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProject.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/iStingerProject0#
+
+CProcessInfoPlistFile /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/Info.plist iStingerProject-Info.plist
+s309862013.768895
+e309862013.864827
+r1
+xProcessInfoPlistFile
+x/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/Info.plist
+xiStingerProject-Info.plist
+lSLF07#2@34"Process iStingerProject-Info.plist309862013#309862013#0(0"0(0#0#70"/Users/Meddle/istinger/code/iStingerProject/iStingerProject-Info.plist32651522506817640#518"    cd /Users/Meddle/istinger/code/iStingerProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iStingerProject-Info.plist -genpkginfo /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/Info.plist iStingerProject-Info.plist
+s308758390.198737
+e308758390.243156
+r1
+xProcessInfoPlistFile
+x/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/Info.plist
+xiStingerProject-Info.plist
+lSLF07#2@34"Process iStingerProject-Info.plist308758390#308758390#0(0"0(0#0#69"/Users/utbm/Documents/TX52/iStingerProject/iStingerProject-Info.plist29836824280170576#515"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iStingerProject-Info.plist -genpkginfo /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app/Info.plist0#
+
+CProcessPCH /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch.gch iStingerProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309862017.396610
+e309862025.395652
+r1
+xProcessPCH
+x/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch.gch
+xiStingerProject_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile iStingerProject_Prefix.pch309862017#309862025#0(0"0(0#0#70"/Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch8604257536#2008"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -c /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch -o /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-bwnxbbemshunlxecyzriujxhyfwh/iStingerProject_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/mu/mu19CZg8G6OfpaV0bxgNfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-ahuqlnbafsoxjkbuydvhdysxhfvg/iStingerProject_Prefix.pch.gch iStingerProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308758390.633049
+e308758391.692961
+r1
+xProcessPCH
+x/var/folders/mu/mu19CZg8G6OfpaV0bxgNfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-ahuqlnbafsoxjkbuydvhdysxhfvg/iStingerProject_Prefix.pch.gch
+xiStingerProject_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile iStingerProject_Prefix.pch308758390#308758391#0(0"0(0#0#69"/Users/utbm/Documents/TX52/iStingerProject/iStingerProject_Prefix.pch4300911832#1943"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator -I/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/include -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/utbm/Documents/TX52/iStingerProject/build/iStingerProject.build/Debug-iphonesimulator/iStingerProject.build/DerivedSources -c /Users/utbm/Documents/TX52/iStingerProject/iStingerProject_Prefix.pch -o /var/folders/mu/mu19CZg8G6OfpaV0bxgNfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-ahuqlnbafsoxjkbuydvhdysxhfvg/iStingerProject_Prefix.pch.gch0#
+
+CTouch /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app
+s309893154.661074
+e309893154.688070
+r1
+xTouch
+x/Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app
+lSLF07#2@97"Touch /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app309893154#309893154#0(0"0(0#0#0"8602365600#296"    cd /Users/Meddle/istinger/code/iStingerProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Meddle/istinger/code/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app0#
+
+CTouch /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app
+s308760883.427756
+e308760883.430437
+r1
+xTouch
+x/Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app
+lSLF07#2@96"Touch /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app308760883#308760883#0(0"0(0#0#0"4300911832#294"    cd /Users/utbm/Documents/TX52/iStingerProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/utbm/Documents/TX52/iStingerProject/build/Debug-iphonesimulator/iStingerProject.app0#
+

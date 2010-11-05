@@ -1,0 +1,578 @@
+TiStingerProject
+v7
+r0
+t310485118.943841
+cCheck dependencies
+cProcessInfoPlistFile /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/Info.plist iStingerProject-Info.plist
+cCompileXIB /Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib
+cProcessPCH /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch.gch iStingerProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o /Users/Meddle/istinger/code/iStingerProject/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/CommandRobotController.o /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/ConnexionManager.o /Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/Network.o /Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject normal i386
+cGenerateDSYMFile /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app.dSYM /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject
+cTouch /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004CB76DE20000000000000110
+t1287089634
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.h
+c000000004CD02B9B00000000000001FE
+t1288711067
+s510
+i<UIKit/UIKit.h>
+i"ConnexionManager.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m
+c000000004CD168F50000000000000627
+t1288792309
+s1575
+i"CommandRobotController.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.h
+c000000004CC81DEC00000000000001D0
+t1288183276
+s464
+i<Foundation/Foundation.h>
+i"Network.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m
+c000000004CD031E30000000000000754
+t1288712675
+s1876
+i"ConnexionManager.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.h
+c000000004CD030A300000000000002D0
+t1288712355
+s720
+i<Foundation/Foundation.h>
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m
+c000000004CD11303000000000000090A
+t1288770307
+s2314
+i"Network.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.h
+c000000004CD166730000000000000209
+t1288791667
+s521
+i<UIKit/UIKit.h>
+i"CommandRobotController.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m
+c000000004CD1676900000000000004F1
+t1288791913
+s1265
+i"DrivingViewController.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.h
+c000000004CC47EF200000000000000E8
+t1287945970
+s232
+i<UIKit/UIKit.h>
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m
+c000000004CC47EF2000000000000018E
+t1287945970
+s398
+i"HelpViewController.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.h
+c000000004CC47EF200000000000000EE
+t1287945970
+s238
+i<UIKit/UIKit.h>
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m
+c000000004CC47EF20000000000000197
+t1287945970
+s407
+i"OptionsViewController.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.h
+c000000004CC993E100000000000001F3
+t1288279009
+s499
+i<UIKit/UIKit.h>
+i"Connexion/ConnexionManager.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m
+c000000004CC9946A00000000000002AA
+t1288279146
+s682
+i"iStingerProjectApp.h"
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app
+t1288792318
+s204
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app.dSYM
+t1288792318
+s102
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/Info.plist
+t1288250792
+s629
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/PkgInfo
+t1288250792
+s8
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject
+t1288792318
+s29292
+
+N/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerWindow.nib
+t1288791935
+s7299
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/CommandRobotController.o
+t1288792318
+s12648
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/ConnexionManager.o
+t1288714180
+s13124
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o
+t1288791938
+s38904
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o
+t1288250796
+s34492
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/Network.o
+t1288770308
+s16180
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o
+t1288250796
+s34556
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProject.LinkFileList
+c000000004CC993E800000000000004E7
+t1288279016
+s1255
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o
+t1288712527
+s49092
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o
+t1288280147
+s6300
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/CommandRobotController.plist
+t2
+s0
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/DrivingViewController.plist
+t2
+s0
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/HelpViewController.plist
+t2
+s0
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/OptionsViewController.plist
+t2
+s0
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/iStingerProjectApp.plist
+t2
+s0
+
+N/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch
+c000000004CC47EF200000000000000C7
+t1287945970
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib
+c000000004CD165C8000000000000B700
+t1288791496
+s46848
+
+N/Users/Meddle/istinger/code/iStingerProject/main.m
+c000000004CC99481000000000000016C
+t1288279169
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch.gch
+t1288250795
+s14871568
+
+N/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch.pth
+t2
+s0
+
+NiStingerProject-Info.plist
+c000000004CC47EF2000000000000038D
+t1287945970
+s909
+
+CAnalyze /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m
+s309945343.764346
+e309945343.944347
+r1
+xAnalyze
+x/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m
+oIn file included from <built-in>:121:
+o<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found
+o #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@84"Analyze /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m309945343#309945343#0(486"In file included from <built-in>:121:<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors309945343#18446744073709551615#0#1(25@193"'/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found309945343#18446744073709551615#0#0(6@14"<command line>309945343#2#0#2#0#0"0(6@14"<command line>309945343#0#0#0#0#0"0(0#0#76"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m8610076576#2187"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch --analyze /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/CommandRobotController.plist0#
+
+CAnalyze /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m
+s309945343.230201
+e309945343.403735
+r1
+xAnalyze
+x/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m
+oIn file included from <built-in>:121:
+o<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found
+o #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@98"Analyze /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m309945343#309945343#0(486"In file included from <built-in>:121:<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors309945343#18446744073709551615#0#1(25@193"'/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found309945343#18446744073709551615#0#0(6@14"<command line>309945343#2#0#2#0#0"0(6@14"<command line>309945343#0#0#0#0#0"0(0#0#90"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m8609658592#2200"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch --analyze /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/DrivingViewController.plist0#
+
+CAnalyze /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m
+s309945343.574193
+e309945343.764114
+r1
+xAnalyze
+x/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m
+oIn file included from <built-in>:121:
+o<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found
+o #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@95"Analyze /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m309945343#309945343#0(486"In file included from <built-in>:121:<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors309945343#18446744073709551615#0#1(25@193"'/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found309945343#18446744073709551615#0#0(6@14"<command line>309945343#2#0#2#0#0"0(6@14"<command line>309945343#0#0#0#0#0"0(0#0#87"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m8609360384#2194"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch --analyze /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/HelpViewController.plist0#
+
+CAnalyze /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m
+s309945343.403860
+e309945343.574070
+r1
+xAnalyze
+x/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m
+oIn file included from <built-in>:121:
+o<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found
+o #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@98"Analyze /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m309945343#309945343#0(486"In file included from <built-in>:121:<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors309945343#18446744073709551615#0#1(25@193"'/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found309945343#18446744073709551615#0#0(6@14"<command line>309945343#2#0#2#0#0"0(6@14"<command line>309945343#0#0#0#0#0"0(0#0#90"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m8609153248#2200"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch --analyze /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/OptionsViewController.plist0#
+
+CAnalyze /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m
+s309945343.058639
+e309945343.230069
+r1
+xAnalyze
+x/Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m
+oIn file included from <built-in>:121:
+o<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found
+o #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@80"Analyze /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m309945343#309945343#0(486"In file included from <built-in>:121:<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors309945343#18446744073709551615#0#1(25@193"'/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found309945343#18446744073709551615#0#0(6@14"<command line>309945343#2#0#2#0#0"0(6@14"<command line>309945343#0#0#0#0#0"0(0#0#72"/Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m8607139200#2179"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch --analyze /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/iStingerProjectApp.plist0#
+
+CAnalyze /Users/Meddle/istinger/code/iStingerProject/main.m
+s309945342.885727
+e309945343.058518
+r1
+xAnalyze
+x/Users/Meddle/istinger/code/iStingerProject/main.m
+oIn file included from <built-in>:121:
+o<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found
+o #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@58"Analyze /Users/Meddle/istinger/code/iStingerProject/main.m309945342#309945343#0(486"In file included from <built-in>:121:<command line>:2:10: fatal error: '/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found #include "/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors309945342#18446744073709551615#0#1(25@193"'/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch' file not found309945342#18446744073709551615#0#0(6@14"<command line>309945342#2#0#2#0#0"0(6@14"<command line>309945342#0#0#0#0#0"0(0#0#50"/Users/Meddle/istinger/code/iStingerProject/main.m8607727008#2143"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch --analyze /Users/Meddle/istinger/code/iStingerProject/main.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310485118#310485118#0(0"0(0#1#0"8613351936#0"0#
+
+CCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/CommandRobotController.o /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310485118.487816
+e310485118.699865
+r1
+xCompileC
+xbuild/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/CommandRobotController.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m310485118#310485118#0(0"0(0#0#76"/Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m8590176288#2232"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/CommandRobotController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/CommandRobotController.o0#
+
+CCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/ConnexionManager.o /Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310406980.417832
+e310406980.811902
+r1
+xCompileC
+xbuild/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/ConnexionManager.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m: In function 'receivedStream':
+o/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m:36: warning: invalid receiver type 'CFReadStreamRef'
+o/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m:60: warning: format not a string literal and no format arguments
+lSLF07#2@88"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m310406980#310406980#0(392"/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m: In function 'receivedStream':/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m:36: warning: invalid receiver type 'CFReadStreamRef'/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m:60: warning: format not a string literal and no format arguments2(22@39"Invalid receiver type 'CFReadStreamRef'310406980#112#134#0(6@80"/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m310405475#36#0#36#0#0"0(22@51"Format not a string literal and no format arguments310406980#246#146#0(6@80"/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m310405475#60#0#60#0#51"format not a string literal and no format arguments0(0#0#80"/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m8614217184#2230"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/ConnexionManager.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/ConnexionManager.o0#
+
+CCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310484735.940650
+e310484738.713882
+r1
+xCompileC
+xbuild/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m310484735#310484738#0(0"0(0#0#90"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m8613309984#2245"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/DrivingViewController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/DrivingViewController.o0#
+
+CCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309943596.004849
+e309943596.108570
+r1
+xCompileC
+xbuild/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m309943596#309943596#0(0"0(0#0#87"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m8601265824#2239"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/HelpViewController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/HelpViewController.o0#
+
+CCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/Network.o /Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310463108.629196
+e310463108.845317
+r1
+xCompileC
+xbuild/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/Network.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m: In function '-[Network sendString:]':
+o/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m:47: warning: pointer targets in passing argument 1 of 'strlen' differ in signedness
+lSLF07#2@79"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m310463108#310463108#0(267"/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m: In function '-[Network sendString:]':/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m:47: warning: pointer targets in passing argument 1 of 'strlen' differ in signedness1(22@70"Pointer targets in passing argument 1 of 'strlen' differ in signedness310463108#111#156#0(6@71"/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m310463107#47#0#47#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#71"/Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m8603637568#2212"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/Connexion/Network.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/Network.o0#
+
+CCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309943595.914058
+e309943596.004710
+r1
+xCompileC
+xbuild/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m309943595#309943596#0(0"0(0#0#90"/Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m8604390752#2245"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/ViewController/OptionsViewController.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/OptionsViewController.o0#
+
+CCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310405326.915051
+e310405327.064630
+r1
+xCompileC
+xbuild/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o
+x/Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m310405326#310405327#0(0"0(0#0#72"/Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m8613923232#2224"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/Classes/iStingerProjectApp.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProjectApp.o0#
+
+CCompileC build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o /Users/Meddle/istinger/code/iStingerProject/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309972947.398849
+e309972947.574297
+r1
+xCompileC
+xbuild/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o
+x/Users/Meddle/istinger/code/iStingerProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Meddle/istinger/code/iStingerProject/main.m309972947#309972947#0(0"0(0#0#50"/Users/Meddle/istinger/code/iStingerProject/main.m8614116288#2188"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch -c /Users/Meddle/istinger/code/iStingerProject/main.m -o /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib
+s310484732.536632
+e310484735.940059
+r1
+xCompileXIB
+x/Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib
+lSLF07#2@29"CompileXIB iStingerWindow.xib310484732#310484736#0(0"0(0#0#62"/Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib8612779264#603"    cd /Users/Meddle/istinger/code/iStingerProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerWindow.nib /Users/Meddle/istinger/code/iStingerProject/iStingerWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app.dSYM /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject
+s310485118.794632
+e310485118.930679
+r1
+xGenerateDSYMFile
+x/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app.dSYM
+x/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject
+lSLF07#2@137"GenerateDSYMFile build/Release-iphonesimulator/iStingerProject.app.dSYM build/Release-iphonesimulator/iStingerProject.app/iStingerProject310485118#310485118#0(0"0(0#0#109"/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject8613651968#426"    cd /Users/Meddle/istinger/code/iStingerProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject -o /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app.dSYM0#
+
+CLd /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject normal i386
+s310485118.699989
+e310485118.794489
+r1
+xLd
+x/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject
+xnormal
+xi386
+lSLF07#2@114"Link /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject310485118#310485118#0(0"0(0#0#0"8612635424#973"    cd /Users/Meddle/istinger/code/iStingerProject    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -filelist /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/Objects-normal/i386/iStingerProject.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/iStingerProject0#
+
+CProcessInfoPlistFile /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/Info.plist iStingerProject-Info.plist
+s309943592.934907
+e309943592.963802
+r1
+xProcessInfoPlistFile
+x/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/Info.plist
+xiStingerProject-Info.plist
+lSLF07#2@34"Process iStingerProject-Info.plist309943592#309943592#0(0"0(0#0#70"/Users/Meddle/istinger/code/iStingerProject/iStingerProject-Info.plist28429427921584240#522"    cd /Users/Meddle/istinger/code/iStingerProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iStingerProject-Info.plist -genpkginfo /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app/Info.plist0#
+
+CProcessPCH /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch.gch iStingerProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309943594.206049
+e309943595.493713
+r1
+xProcessPCH
+x/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch.gch
+xiStingerProject_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile iStingerProject_Prefix.pch309943594#309943595#0(0"0(0#0#70"/Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch8603213344#2065"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch -o /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-dsnvbdgsvfsohdedidlxvbkxjcxx/iStingerProject_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch.pth iStingerProject_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s309945342.248005
+e309945342.884507
+r1
+xProcessPCH
+x/var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch.pth
+xiStingerProject_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@37"Precompile iStingerProject_Prefix.pch309945342#309945342#0(8189"In file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors309945342#18446744073709551615#0#11(25@48"expected function body after function declarator309945342#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type309945342#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type309945342#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type309945342#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'309945342#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type309945342#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type309945342#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type309945342#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type309945342#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'309945342#18446744073709551615#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'309945342#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#70"/Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch8603878368#2002"    cd /Users/Meddle/istinger/code/iStingerProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-generated-files.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-own-target-headers.hmap -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-all-target-headers.hmap -iquote /Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/iStingerProject-project-headers.hmap -F/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator -I/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/include -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources/i386 -I/Users/Meddle/istinger/code/iStingerProject/build/iStingerProject.build/Release-iphonesimulator/iStingerProject.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Meddle/istinger/code/iStingerProject/iStingerProject_Prefix.pch -o /var/folders/SI/SIeHydHAEsePIJbRkyujrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iStingerProject_Prefix-fjwoopuzvhigfqcyyyljflleqmju/iStingerProject_Prefix.pch.pth0#
+
+CTouch /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app
+s310485118.930794
+e310485118.943778
+r1
+xTouch
+x/Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app
+lSLF07#2@99"Touch /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app310485118#310485118#0(0"0(0#0#0"8613178464#298"    cd /Users/Meddle/istinger/code/iStingerProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Meddle/istinger/code/iStingerProject/build/Release-iphonesimulator/iStingerProject.app0#
+
