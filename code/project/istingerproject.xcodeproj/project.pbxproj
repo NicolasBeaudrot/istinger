@@ -1,0 +1,315 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* istingerprojectAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* istingerprojectAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		747A427512956ABD0033EFCE /* DrivingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 747A427012956ABD0033EFCE /* DrivingViewController.m */; };
+		747A427712956ABD0033EFCE /* OptionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 747A427412956ABD0033EFCE /* OptionsViewController.m */; };
+		747A428212956B1B0033EFCE /* ConnexionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 747A427F12956B1B0033EFCE /* ConnexionManager.m */; };
+		747A428312956B1B0033EFCE /* Network.m in Sources */ = {isa = PBXBuildFile; fileRef = 747A428112956B1B0033EFCE /* Network.m */; };
+		747A428712956B3E0033EFCE /* CommandRobotController.m in Sources */ = {isa = PBXBuildFile; fileRef = 747A428612956B3E0033EFCE /* CommandRobotController.m */; };
+		747A429F12956E300033EFCE /* gauche-icone-6798-48.png in Resources */ = {isa = PBXBuildFile; fileRef = 747A429D12956E300033EFCE /* gauche-icone-6798-48.png */; };
+		747A42A012956E300033EFCE /* vers-haut-icone-4232-48.png in Resources */ = {isa = PBXBuildFile; fileRef = 747A429E12956E300033EFCE /* vers-haut-icone-4232-48.png */; };
+		747A42AB1295703C0033EFCE /* droite-icone-6798-48.png in Resources */ = {isa = PBXBuildFile; fileRef = 747A42A91295703C0033EFCE /* droite-icone-6798-48.png */; };
+		747A42AC1295703C0033EFCE /* vers-bas-icone-4232-48.png in Resources */ = {isa = PBXBuildFile; fileRef = 747A42AA1295703C0033EFCE /* vers-bas-icone-4232-48.png */; };
+		7493796312958E790067B2D3 /* stop-icone-4372-48.png in Resources */ = {isa = PBXBuildFile; fileRef = 7493796212958E790067B2D3 /* stop-icone-4372-48.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* istingerprojectAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = istingerprojectAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* istingerprojectAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = istingerprojectAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* istingerproject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = istingerproject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* istingerproject_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = istingerproject_Prefix.pch; sourceTree = "<group>"; };
+		747A426F12956ABD0033EFCE /* DrivingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DrivingViewController.h; path = ViewController/DrivingViewController.h; sourceTree = "<group>"; };
+		747A427012956ABD0033EFCE /* DrivingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DrivingViewController.m; path = ViewController/DrivingViewController.m; sourceTree = "<group>"; };
+		747A427312956ABD0033EFCE /* OptionsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = OptionsViewController.h; path = ViewController/OptionsViewController.h; sourceTree = "<group>"; };
+		747A427412956ABD0033EFCE /* OptionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = OptionsViewController.m; path = ViewController/OptionsViewController.m; sourceTree = "<group>"; };
+		747A427E12956B1B0033EFCE /* ConnexionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ConnexionManager.h; path = Connexion/ConnexionManager.h; sourceTree = "<group>"; };
+		747A427F12956B1B0033EFCE /* ConnexionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ConnexionManager.m; path = Connexion/ConnexionManager.m; sourceTree = "<group>"; };
+		747A428012956B1B0033EFCE /* Network.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Network.h; path = Connexion/Network.h; sourceTree = "<group>"; };
+		747A428112956B1B0033EFCE /* Network.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Network.m; path = Connexion/Network.m; sourceTree = "<group>"; };
+		747A428512956B3E0033EFCE /* CommandRobotController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommandRobotController.h; sourceTree = "<group>"; };
+		747A428612956B3E0033EFCE /* CommandRobotController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommandRobotController.m; sourceTree = "<group>"; };
+		747A429D12956E300033EFCE /* gauche-icone-6798-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "gauche-icone-6798-48.png"; path = "ressources/gauche-icone-6798-48.png"; sourceTree = "<group>"; };
+		747A429E12956E300033EFCE /* vers-haut-icone-4232-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "vers-haut-icone-4232-48.png"; path = "ressources/vers-haut-icone-4232-48.png"; sourceTree = "<group>"; };
+		747A42A91295703C0033EFCE /* droite-icone-6798-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "droite-icone-6798-48.png"; path = "ressources/droite-icone-6798-48.png"; sourceTree = "<group>"; };
+		747A42AA1295703C0033EFCE /* vers-bas-icone-4232-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "vers-bas-icone-4232-48.png"; path = "ressources/vers-bas-icone-4232-48.png"; sourceTree = "<group>"; };
+		7493796212958E790067B2D3 /* stop-icone-4372-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "stop-icone-4372-48.png"; path = "ressources/stop-icone-4372-48.png"; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* istingerproject-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "istingerproject-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				747A428512956B3E0033EFCE /* CommandRobotController.h */,
+				747A428612956B3E0033EFCE /* CommandRobotController.m */,
+				747A428412956B210033EFCE /* Connexion */,
+				747A427812956AD40033EFCE /* ViewController */,
+				1D3623240D0F684500981E51 /* istingerprojectAppDelegate.h */,
+				1D3623250D0F684500981E51 /* istingerprojectAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* istingerproject.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* istingerproject_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				747A42A112956E340033EFCE /* images */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* istingerproject-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		747A427812956AD40033EFCE /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				747A426F12956ABD0033EFCE /* DrivingViewController.h */,
+				747A427012956ABD0033EFCE /* DrivingViewController.m */,
+				747A427312956ABD0033EFCE /* OptionsViewController.h */,
+				747A427412956ABD0033EFCE /* OptionsViewController.m */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		747A428412956B210033EFCE /* Connexion */ = {
+			isa = PBXGroup;
+			children = (
+				747A427E12956B1B0033EFCE /* ConnexionManager.h */,
+				747A427F12956B1B0033EFCE /* ConnexionManager.m */,
+				747A428012956B1B0033EFCE /* Network.h */,
+				747A428112956B1B0033EFCE /* Network.m */,
+			);
+			name = Connexion;
+			sourceTree = "<group>";
+		};
+		747A42A112956E340033EFCE /* images */ = {
+			isa = PBXGroup;
+			children = (
+				7493796212958E790067B2D3 /* stop-icone-4372-48.png */,
+				747A42A91295703C0033EFCE /* droite-icone-6798-48.png */,
+				747A42AA1295703C0033EFCE /* vers-bas-icone-4232-48.png */,
+				747A429D12956E300033EFCE /* gauche-icone-6798-48.png */,
+				747A429E12956E300033EFCE /* vers-haut-icone-4232-48.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* istingerproject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "istingerproject" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = istingerproject;
+			productName = istingerproject;
+			productReference = 1D6058910D05DD3D006BFB54 /* istingerproject.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "istingerproject" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* istingerproject */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				747A429F12956E300033EFCE /* gauche-icone-6798-48.png in Resources */,
+				747A42A012956E300033EFCE /* vers-haut-icone-4232-48.png in Resources */,
+				747A42AB1295703C0033EFCE /* droite-icone-6798-48.png in Resources */,
+				747A42AC1295703C0033EFCE /* vers-bas-icone-4232-48.png in Resources */,
+				7493796312958E790067B2D3 /* stop-icone-4372-48.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* istingerprojectAppDelegate.m in Sources */,
+				747A427512956ABD0033EFCE /* DrivingViewController.m in Sources */,
+				747A427712956ABD0033EFCE /* OptionsViewController.m in Sources */,
+				747A428212956B1B0033EFCE /* ConnexionManager.m in Sources */,
+				747A428312956B1B0033EFCE /* Network.m in Sources */,
+				747A428712956B3E0033EFCE /* CommandRobotController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = istingerproject_Prefix.pch;
+				INFOPLIST_FILE = "istingerproject-Info.plist";
+				PRODUCT_NAME = istingerproject;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = istingerproject_Prefix.pch;
+				INFOPLIST_FILE = "istingerproject-Info.plist";
+				PRODUCT_NAME = istingerproject;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "istingerproject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "istingerproject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
