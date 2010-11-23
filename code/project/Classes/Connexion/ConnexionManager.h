@@ -14,6 +14,7 @@
 	Network *server;
 	NSString *host;
 	Boolean connected;
+	NSMutableArray *arCommand;
 }
 
 @property (retain, nonatomic) NSString *host;
@@ -24,6 +25,7 @@
 - (void) send:(NSString *)string;
 - (void) setHost:(NSString *)ip;
 - (Boolean) isConnected;
+- (void) receivedMessage:(NSString *)message;
 void receivedStream (CFReadStreamRef stream, CFStreamEventType event, void *myPtr);
 
 @end

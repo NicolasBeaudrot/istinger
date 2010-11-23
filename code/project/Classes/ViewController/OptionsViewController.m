@@ -10,10 +10,16 @@
 
 @implementation OptionsViewController
 
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
+    // Return YES for supported orientations
+    return YES;
+}
+
+
 - (void)viewDidLoad {
     [super viewDidLoad];
 	ipTextEdit.text = [[ConnexionManager sharedConnexion] host];
-	timer = [NSTimer scheduledTimerWithTimeInterval:10.0
+	timer = [NSTimer scheduledTimerWithTimeInterval:5.0
 					 target:self
 					 selector: @selector(updateInterface)
 					 userInfo:nil
@@ -38,8 +44,7 @@
 
 -(IBAction) changeSpeed:(id)sender {
 	int speed = (int) speedSlider.value;
-	NSString *chaine = [[CommandRobotController sharedCommand] changeSpeed:speed];
-	NSLog(@"Command : %@", chaine);
+	[[CommandRobotController sharedCommand] changeSpeed:speed];
 }
 
 - (void)didReceiveMemoryWarning {

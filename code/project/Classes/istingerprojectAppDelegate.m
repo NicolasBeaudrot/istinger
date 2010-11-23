@@ -21,14 +21,6 @@
 	return YES;
 }
 
-
-- (void)accelerometer:(UIAccelerometer *)acel didAccelerate:(UIAcceleration *)aceler {
-	
-	if (fabsf(aceler.x) < 1.5 || fabsf(aceler.y) < 1.5 || fabsf(aceler.z) < 1.5) {
-		NSLog(@"Secousse");
-	}
-}
-
 - (void)dealloc {
 	[[ConnexionManager sharedConnexion] disconnect];
 	[tabBarController release];
