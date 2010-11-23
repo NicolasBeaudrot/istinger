@@ -8,9 +8,10 @@
 
 #import <UIKit/UIKit.h>
 #import "ConnexionManager.h"
+@class DrivingViewController;
 
 @interface CommandRobotController : NSObject {
-
+	DrivingViewController *drivingPtr;
 }
 
 + (CommandRobotController *) sharedCommand; // pour que cette classe soit un singleton
@@ -22,6 +23,7 @@
 -(NSString *) turnBack;
 -(NSString *) stop;
 -(NSString *) changeSpeed:(int)value;
--(void) serverResponse:(NSString *)message;
-
+-(NSString *) getSpeed;
+-(void) serverResponse:(NSString *)command:(NSString *)message;
+-(void) setDrivingView:(DrivingViewController*)view;
 @end

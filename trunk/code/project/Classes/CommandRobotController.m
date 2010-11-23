@@ -7,7 +7,7 @@
 //
 
 #import "CommandRobotController.h"
-
+#import "DrivingViewController.h"
 
 @implementation CommandRobotController
 
@@ -15,6 +15,7 @@ static CommandRobotController *sharedCommandRobot = nil; //pour stocker l’uniq
 
 -(id) init{
 	[super init];
+	drivingPtr = nil;
 	return self;
 }
 
@@ -55,9 +56,24 @@ static CommandRobotController *sharedCommandRobot = nil; //pour stocker l’uniq
 	return [NSString stringWithFormat:@"speed<CR>"];
 }
 
+-(NSString *) getSpeed {
+	[[ConnexionManager sharedConnexion] send:@"vel<CR>"];
+	return [NSString stringWithFormat:@"vel<CR>"];
+}
+
 /*Fonction appelée lorsque le robot envoie un message*/
--(void) serverResponse:(NSString *)message {
-	NSLog(@"Received : %@", message);
+-(void) serverResponse:(NSString *)command:(NSString *)message {
+	NSLog(@"Received : %@ - %@", command, message);
+	
+	if ([command isEqualToString:@"vel<CR>"]) {
+		NSLog(@"Vitesse");
+	} else {
+		NSLog(@"not found");
+	}
+}
+
+-(void) setDrivingView:(DrivingViewController*)view {
+	drivingPtr = view;
 }
 
 /*Pour instancier la classe comme un singleton*/
@@ -67,7 +83,5 @@ static CommandRobotController *sharedCommandRobot = nil; //pour stocker l’uniq
     }
     return sharedCommandRobot;
 }
-
-
 
 @end
