@@ -25,3 +25,5 @@ Singleton
 
 Accéléromètre
  * http://blog.octo.com/tour-dhorizon-du-developpement-iphone/
+
+http://swik.net/User:marc/Chipmunk+Ninja+Technical+Articles/Rotating+an+NSImage+object+in+Cocoa/zgha
