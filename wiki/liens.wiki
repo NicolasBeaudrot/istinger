@@ -27,3 +27,5 @@ Accéléromètre
  * http://blog.octo.com/tour-dhorizon-du-developpement-iphone/
 
 http://swik.net/User:marc/Chipmunk+Ninja+Technical+Articles/Rotating+an+NSImage+object+in+Cocoa/zgha
+
+http://www.iphone4.fr/installer-des-applications-crackees-sur-liphone-jailbreake/
